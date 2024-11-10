@@ -87,7 +87,7 @@ section h2:not(#about > div > div > div.about-text > h2){
     align-items: center;
     text-align: center;
     padding-top: 60px;
-    background: url('/images/hero.jpg') center/cover;
+    background: url('images/hero.jpg') center/cover;
 }
 .hero::before{
     content: "";
